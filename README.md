@@ -35,7 +35,7 @@ Uma **replica do Spotify** desenvolvida como projeto full-stack, utilizando **Re
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/fullstacksportify.git
+git clone https://github.com/romeropedro1/fullstacksportify.git
 cd fullstacksportify
 ```
 
