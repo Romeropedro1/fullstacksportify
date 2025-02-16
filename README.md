@@ -1,6 +1,5 @@
 
 
-```markdown
 # FullStackSportify 🎶
 
 Uma **replica do Spotify** desenvolvida como projeto full-stack, utilizando **React** no front-end, **Node.js (Express)** no back-end e **MongoDB** para armazenar os dados. Um projeto moderno e funcional, que simula uma plataforma de streaming de música.
@@ -37,8 +36,6 @@ Clone o repositório para sua máquina local:
 ```bash
 git clone https://github.com/Romeropedro1/fullstacksportify.git
 cd fullstacksportify
-```
-
 ### 2. Instalar as Dependências
 
 Para o **front-end**:
